@@ -1,7 +1,7 @@
 {
-  "name": "BTE",
+  "name": "TBTE",
   "version": "1.0.0",
-  "description": "",
+  "description": "Root",
   "main": "server.js",
   "scripts": {
     "start:dev": "",
