@@ -1,7 +1,6 @@
 const butInstall = document.getElementById("buttonInstall");
 
-// Logic for installing the PWA
-// TODO: Add an event handler to the `beforeinstallprompt` event
+//Logic for making PWA installable
 window.addEventListener("beforeinstallprompt", (event) => {
   event.preventDefault();
   butInstall.style.visibility = "visible";
@@ -13,9 +12,7 @@ window.addEventListener("beforeinstallprompt", (event) => {
   });
 });
 
-// TODO: Implement a click event handler on the `butInstall` element
 
-// TODO: Add an handler for the `appinstalled` event
 window.addEventListener("appinstalled", (event) => {
   console.log("Application Installed", event);
 });
