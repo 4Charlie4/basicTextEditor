@@ -1,0 +1,48 @@
+{
+  "icons": [
+    {
+      "src": "./assets/icons/icon_1024x1024.09427876d939c9fed22397042e6ef934.png",
+      "sizes": "1024x1024",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "./assets/icons/icon_512x512.e69e3be4557cb52f15d88835b60a0736.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "./assets/icons/icon_384x384.e6eee867e208b8622242e3cf20793fa4.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "./assets/icons/icon_256x256.68cc21e748050b48f21c7c0d8ad9ce55.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    },
+    {
+      "src": "./assets/icons/icon_192x192.c6d4835310fd1da255a1154fda7e833d.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "./assets/icons/icon_128x128.1aecd1ef00f0e1814de21c4564379325.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "./assets/icons/icon_96x96.1bf526b78f2a3d187e745f6ae0b5bfba.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "T.B.T.E",
+  "short_name": "Basic Editor",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": "./",
+  "description": "Take notes or write some code and save for later!",
+  "background_color": "#42099e",
+  "theme_color": "#42099e"
+}
