@@ -2,8 +2,9 @@
     "name": "JATE",
     "version": "1.0.0",
     "description": "",
-    "main": "server.js",
+    "main": "index.js",
     "scripts": {
+        "start": "node server",
         "server": "nodemon server.js --ignore client"
     },
     "keywords": [],
