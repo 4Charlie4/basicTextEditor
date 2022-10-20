@@ -5,7 +5,7 @@ import { header } from "./header";
 // import { EditorView, basicSetup } from "codemirror";
 
 export default class {
-  constructor() {
+  constructor() { 
     const localData = localStorage.getItem("content");
 
     // check if CodeMirror is loaded
